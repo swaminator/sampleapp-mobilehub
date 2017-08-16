@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/res/anim/abc_slide_out_top.xml"
+    }
+]

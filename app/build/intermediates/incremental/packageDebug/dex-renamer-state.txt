@@ -1,0 +1,7 @@
+#Thu Aug 03 11:01:50 PDT 2017
+base.0=/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04ded0913d923fa213db15c613bcb7972f3bd94c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2f4ab0967e47260ff2acf4d9217931b9eded4b4/classes.dex
+base.1=/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2f4ab0967e47260ff2acf4d9217931b9eded4b4
+file.0=/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04ded0913d923fa213db15c613bcb7972f3bd94c/classes.dex

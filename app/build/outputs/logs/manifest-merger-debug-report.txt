@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:16:1-86:12
+	package
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:17:5-30
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:21:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:22:22-65
+application
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:24:5-85:19
+MERGED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:19:5-52:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/nsswamin/.android/build-cache/9b5a77ca676074ecacc0e1e05dc77bc945fe4c60/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/nsswamin/.android/build-cache/a28a0db4eb159d823adbf5f6fa226636ffe782d5/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/nsswamin/.android/build-cache/09b8d3dd51883ab7715e361e0fcd6fcc8d843e1e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/nsswamin/.android/build-cache/d5dbeac6c01829ec6df022b616253f769cffc688/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/nsswamin/.android/build-cache/0142fa811d3eb55c77b9443df2ccc08c7565b9ca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/nsswamin/.android/build-cache/08a56690016c327e42fd296f0ec4e2cf392a21de/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/nsswamin/.android/build-cache/3f413a0c3edc56d03d617f69c148645f9059e00d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/nsswamin/.android/build-cache/4b4e86987513e8dcc695081551c7838f309d883e/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:27:9-41
+	android:supportsRtl
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:21:9-35
+	android:allowBackup
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:26:9-43
+	android:theme
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:29:9-51
+activity#com.mysampleapp.SplashActivity
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:34:13-83
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:32:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.mysampleapp.MainActivity
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:43:13-56
+	android:launchMode
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:42:13-48
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:41:13-41
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:54:9-124
+	android:enabled
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:54:99-121
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:54:18-98
+service#com.amazonaws.mobile.downloader.service.DownloadService
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:56:9-91
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:56:18-88
+receiver#com.amazonaws.mobile.downloader.service.NetworkStateListener
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:58:9-64:20
+	android:enabled
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:60:19-42
+	android:exported
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:59:19-43
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:58:19-94
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:61:13-63:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:62:25-76
+provider#com.amazonaws.mobile.downloader.query.DownloadQueueProvider
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:66:9-71:20
+	android:authorities
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:68:13-76
+	android:enabled
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:69:13-35
+	android:exported
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:67:6-80
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:73:9-81:20
+	android:authorities
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:75:13-74
+	android:grantUriPermissions
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:77:13-47
+	android:exported
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:74:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:78:13-80:66
+	android:resource
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:80:17-63
+	android:name
+		ADDED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml:79:17-67
+uses-sdk
+INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.0] /Users/nsswamin/.android/build-cache/df0643698c48bf2235a45d2ac83e54491dae2ff5/output/AndroidManifest.xml:18:5-42
+MERGED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/nsswamin/.android/build-cache/9b5a77ca676074ecacc0e1e05dc77bc945fe4c60/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/nsswamin/.android/build-cache/a28a0db4eb159d823adbf5f6fa226636ffe782d5/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /Users/nsswamin/.android/build-cache/09b8d3dd51883ab7715e361e0fcd6fcc8d843e1e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/nsswamin/.android/build-cache/d5dbeac6c01829ec6df022b616253f769cffc688/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/nsswamin/.android/build-cache/0142fa811d3eb55c77b9443df2ccc08c7565b9ca/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/nsswamin/.android/build-cache/08a56690016c327e42fd296f0ec4e2cf392a21de/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/nsswamin/.android/build-cache/3f413a0c3edc56d03d617f69c148645f9059e00d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/nsswamin/.android/build-cache/4b4e86987513e8dcc695081551c7838f309d883e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nsswamin/workspace/MySampleApp/app/src/main/AndroidManifest.xml
+activity#com.amazonaws.mobilehelper.auth.signin.ui.SignInActivity
+ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:22:9-27:20
+	android:screenOrientation
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:25:13-59
+	android:configChanges
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:23:13-84
+activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.ForgotPasswordActivity
+ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:28:9-33:20
+	android:screenOrientation
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:31:13-67
+	android:configChanges
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:30:13-83
+	android:name
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:29:13-102
+activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.SignUpActivity
+ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:34:9-39:20
+	android:screenOrientation
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:37:13-59
+	android:configChanges
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:36:13-83
+	android:name
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:35:13-94
+activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.MFAActivity
+ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:40:9-45:20
+	android:screenOrientation
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:43:13-55
+	android:configChanges
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:42:13-83
+	android:name
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:41:13-91
+activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.SignUpConfirmActivity
+ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:46:9-51:20
+	android:screenOrientation
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:49:13-67
+	android:configChanges
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:48:13-83
+	android:name
+		ADDED from [MySampleApp:AWSMobileHelper:unspecified] /Users/nsswamin/workspace/MySampleApp/AWSMobileHelper/build/intermediates/bundles/default/AndroidManifest.xml:47:13-101

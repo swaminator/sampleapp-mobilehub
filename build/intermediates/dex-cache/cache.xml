@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.4.2/34b5bf11f900c9e9915d77b0db9ddde760cb3faa/aws-android-sdk-ddb-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34b5bf11f900c9e9915d77b0db9ddde760cb3faa">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-2.4.2_68cd01cb5e5595f85120d65b9b28ca610edd04a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ed15163e4b6b5dff0d44a8f419288b8ea3bda9db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_04ded0913d923fa213db15c613bcb7972f3bd94c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.4.2/4d313b77b144c5e57b7da55ffaf5857d73b93bc0/aws-android-sdk-ddb-mapper-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d313b77b144c5e57b7da55ffaf5857d73b93bc0">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.4.2_f2c388d5cbfdbcf02aef9666367f40dd1b66a95d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.4.2/3c144566ee18c4c725b4e5aef1793bfec4f9d022/aws-android-sdk-core-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c144566ee18c4c725b4e5aef1793bfec4f9d022">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.4.2_ebff0751fa49b7afc258d9e15cd0c4f3210d2c06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/08a56690016c327e42fd296f0ec4e2cf392a21de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_917916220e26973c186a479b5af7c0a437b000dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.4.2/487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884/aws-android-sdk-cognito-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.4.2_035e61b958b2b33cfd54d796e49700defe956daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/0142fa811d3eb55c77b9443df2ccc08c7565b9ca/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e1b83766e51a1730145f2bcb8999f3e54d539060/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-kms/2.4.2/939fbde1af746ca406688dbf5f11e35bdc431243/aws-android-sdk-kms-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="939fbde1af746ca406688dbf5f11e35bdc431243">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-kms-2.4.2_96d71c70223f1c38c65c44d2557dcd7d491e5233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/3f413a0c3edc56d03d617f69c148645f9059e00d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2bac7dcc5d726881d2e798c302cf40d547827dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/df0643698c48bf2235a45d2ac83e54491dae2ff5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a0bda44d8c9298b39034763efe3fd6ae620cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/0142fa811d3eb55c77b9443df2ccc08c7565b9ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b08c4332d65b9e93bd525d842c2b70ff3fc5011b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/3f413a0c3edc56d03d617f69c148645f9059e00d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ef8fae33da1b0f77a3e2c73badda22f25a2f642e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/d5dbeac6c01829ec6df022b616253f769cffc688/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ba1706b11a7091b295dd4b3a0217f42d6bcd6ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_fb311cae87f24dfd45673ec1b3062951f3693a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-apigateway-core/2.4.2/caf878b16d4b3d7e416f8eea09c3bd5333856c9d/aws-android-sdk-apigateway-core-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caf878b16d4b3d7e416f8eea09c3bd5333856c9d">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-apigateway-core-2.4.2_1fc6af53a73a47d3d6b595dc337c72762e11f075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/4b4e86987513e8dcc695081551c7838f309d883e/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3f818abd6408a85154eb9432af39a5b68f902694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50a143f5992fcab24f4063001cd4b9ba2a224b6d">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2f4ab0967e47260ff2acf4d9217931b9eded4b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/09b8d3dd51883ab7715e361e0fcd6fcc8d843e1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_200aef9a0ced00471bf325f6cf95575db9dcbb7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/d5dbeac6c01829ec6df022b616253f769cffc688/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_508ea96e638db38fbe81bbb43077393a82b2aee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/a28a0db4eb159d823adbf5f6fa226636ffe782d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0778760f11e4b0e59754e36f566c7f09f98535a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.4.2/c29a56e6dcf8e33d2e81af86082be7ba0b200223/aws-android-sdk-cognitoidentityprovider-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c29a56e6dcf8e33d2e81af86082be7ba0b200223">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognitoidentityprovider-2.4.2_82dfa11279ad2088335fa0d6592306c7740a4300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/08a56690016c327e42fd296f0ec4e2cf392a21de/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_df9777b4a1f1e00a73c0a176f683fca4186b5e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/4b4e86987513e8dcc695081551c7838f309d883e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea9b9558424ab3c23ed4468704267ca4adaf3ed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/9b5a77ca676074ecacc0e1e05dc77bc945fe4c60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8929263e4b9eedf29792bf8c7b92e2aa02ef081a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.4.2/48c90942f154c2b84341a90ea07383314881e0ad/aws-android-sdk-s3-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c90942f154c2b84341a90ea07383314881e0ad">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.4.2_2ca450b7517fb97cb8d6fbb9930fb7de5ca19233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nsswamin/.android/build-cache/86def07445a0297a3f65ec25723a187b20787e7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c498b81d02924ad0b73a7733566461d26ed46d4/classes.dex" />
+    </item>
+
+</items>

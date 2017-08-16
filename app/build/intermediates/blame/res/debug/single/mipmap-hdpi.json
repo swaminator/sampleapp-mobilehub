@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/nsswamin/workspace/MySampleApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nsswamin/workspace/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/splash_icon.png",
+        "source": "/Users/nsswamin/workspace/MySampleApp/app/src/main/res/mipmap-hdpi/splash_icon.png"
+    }
+]
